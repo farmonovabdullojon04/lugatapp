@@ -22,8 +22,8 @@
 | **Android TextToSpeech API** | So'zlarning talaffuzini ovoz orqali chiqarish |
 | **KSP** | Room annotatsiyalarini kompilyatsiya qilish |
 
-<img width="720" height="1560" alt="image" src="https://github.com/user-attachments/assets/7c0ad0f9-f3dd-489b-9387-4a20c46dbf74" />
-<img width="720" height="1560" alt="image" src="https://github.com/user-attachments/assets/c90017bd-4969-4641-a4d5-1783862d5139" />
+<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/7c0ad0f9-f3dd-489b-9387-4a20c46dbf74" />
+<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/c90017bd-4969-4641-a4d5-1783862d5139" />
 
 ## 👤 Muallif
 

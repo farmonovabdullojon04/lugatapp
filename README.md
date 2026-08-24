@@ -104,10 +104,6 @@ Pull request va takliflarni mamnuniyat bilan qabul qilamiz:
 4. Branchni push qiling (`git push origin feature/yangi-funksiya`)
 5. Pull Request oching
 
-## 📄 Litsenziya
-
-Ushbu loyiha ochiq manba sifatida taqdim etilgan. Litsenziya turini o'zingiz belgilashingiz mumkin (masalan, MIT License).
-
 ## 👤 Muallif
 
-**Abdullojon** — [GitHub profilingiz havolasini shu yerga qo'shing]
+**Abdullojon** 

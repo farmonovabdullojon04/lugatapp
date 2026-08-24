@@ -29,5 +29,4 @@
 
 **Abdullojon Farmonov** 
 
-##Contact
 **farmonovabdullojon04@gmail.com** 
